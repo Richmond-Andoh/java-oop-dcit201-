@@ -1,3 +1,4 @@
 #ignore all files with class extension
 
 *.class
+*./class
